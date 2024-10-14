@@ -12,6 +12,7 @@ export default function Header() {
     }
 
     useEffect(() => {
+        
         // eslint-disable-next-line
     }, [changeText()])
 
