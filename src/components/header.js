@@ -12,7 +12,7 @@ export default function Header() {
     }
 
     useEffect(() => {
-        
+        console.warn('testing')
         // eslint-disable-next-line
     }, [changeText()])
 
